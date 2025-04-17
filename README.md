@@ -3,6 +3,10 @@ i did not add my own OpenAI key, please just spend $5 and add your own, its not 
 
 websites you need are as follows.
 
+to login duhhh (or sign up?)
+
+https://auth.openai.com/log-in
+
 to actually pay for the stuff, and get something out of the responses
 
 https://platform.openai.com/settings/organization/billing/overview
